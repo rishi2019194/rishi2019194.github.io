@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started PhD in Computer Science at NC State University, Raleigh, under the guidance of Dr. Jung-Eun Kim :sparkles: :smile:
