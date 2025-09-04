@@ -6,4 +6,5 @@ inline: false
 related_posts: false
 ---
 
-Started PhD in Computer Science at NC State University, Raleigh, under the guidance of Dr. Jung-Eun Kim.
+Completed Masters in Computer Science from NC State University, Raleigh under the supervision of Dr. Jung-Eun Kim.
+
