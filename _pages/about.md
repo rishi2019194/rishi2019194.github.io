@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>North Carolina State University, Raleigh</a>. Memorization is Not Learning
+subtitle: <a href='#'>North Carolina State University, Raleigh</a>
 
 profile:
   align: right
