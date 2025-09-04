@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-started-phd-in-computer-science-at-nc-state-university-raleigh-under-the-guidance-of-dr-jung-eun-kim-sparkles-smile",
+          title: 'Started PhD in Computer Science at NC State University, Raleigh, under the guidance...',
           description: "",
           section: "News",},{id: "news-worked-at-fermilab-as-a-machine-learning-intern-as-part-of-the-microboone-project-from-may-2024-august-2024",
           title: 'Worked at Fermilab as a Machine Learning Intern as part of the MicroBoone...',
