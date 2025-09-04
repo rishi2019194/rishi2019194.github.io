@@ -436,12 +436,10 @@ ninja.data = [{
             },},{id: "news-worked-at-fermilab-as-a-machine-learning-intern-as-part-of-the-microboone-project-from-may-2024-august-2024",
           title: 'Worked at Fermilab as a Machine Learning Intern as part of the MicroBoone...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-completed-masters-in-computer-science-from-nc-state-university-raleigh-under-the-supervision-of-dr-jung-eun-kim",
+          title: 'Completed Masters in Computer Science from NC State University, Raleigh under the supervision...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-started-phd-in-computer-science-at-nc-state-university-raleigh-under-the-guidance-of-dr-jung-eun-kim-sparkles-smile",
+          section: "News",},{id: "news-started-phd-in-computer-science-at-nc-state-university-raleigh-under-the-guidance-of-dr-jung-eun-kim-sparkles-smile",
           title: 'Started PhD in Computer Science at NC State University, Raleigh, under the guidance...',
           description: "",
           section: "News",},{id: "projects-project-1",
