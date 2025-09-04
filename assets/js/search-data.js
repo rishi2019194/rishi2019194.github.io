@@ -436,8 +436,8 @@ ninja.data = [{
             },},{id: "news-worked-at-fermilab-as-a-machine-learning-intern-as-part-of-the-microboone-project-from-may-2024-august-2024",
           title: 'Worked at Fermilab as a Machine Learning Intern as part of the MicroBoone...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
