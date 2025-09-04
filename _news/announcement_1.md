@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed Masters in Computer Science from NC State University, Raleigh under the supervision of Dr. Jung-Eun Kim.
+Worked at Fermilab as a Machine Learning Intern as part of the MicroBoone Project from May 2024 - August 2024.
