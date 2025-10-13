@@ -6,7 +6,7 @@
     "email": "rsingha4@ncsu.edu",
     "phone": "",
     "url": "https://rishi2019194.github.io",
-    "summary": "Passionate researcher dedicated to advancing explainable and interpretable AI, with a primary research focus on the dynamics of memorization and generalization in deep neural networks across NLP and CV. Interested in methods to improve efficiency, robustness, safety, and privacy in neural networks.",
+    "summary": "PhD researcher in AI safety, interpretability, and alignment, specializing in analyzing memorization, privacy leakage, and bias in large-scale generative models (LLMs, multimodal transformers). I dissect and interpret model components at the neuron level using techniques such as quantization, pruning, and knowledge distillation to explain failure modes and biases, enabling design of scalable mitigation strategies. My work connects interpretability with efficiency to build robust and trustworthy AI systems in high-throughput, safety-critical environments. Available for Summer 2026 internships (May 2026 -- Aug 2026).",
     "location": {
       "address": "Engineering Building II, Room 3224 Box 8206 NCSU Campus",
       "postalCode": "27695",
@@ -98,18 +98,11 @@
   ],
   "publications": [
     {
-      "name": "Analysing impact of Layer Normalization on Memorization and Generalization",
-      "publisher": "Submitted to NeurIPS 2025",
-      "releaseDate": "2025-01-01",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Distinguishing between Memorization and Generalization at the Feature Level",
-      "publisher": "Submitted to NeurIPS 2025",
-      "releaseDate": "2025-01-01",
-      "url": "",
-      "summary": ""
+      "name": "Impact of Layer Normalization on Memorization and Generalization in Transformers",
+      "publisher": "Accepted at NeurIPS 2025",
+      "releaseDate": "2025-09-18",
+      "url": "https://openreview.net/forum?id=6JIjL7kXzy&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions",
+      "summary": "Understand impact of Layernorm on memorization and generalization in Pre- and Post-LayerNorm transformers"
     },
     {
       "name": "Beyond Words: A Topological Exploration of Coherence in Text Documents",
